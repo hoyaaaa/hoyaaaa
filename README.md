@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Changho Park</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoyaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="hoyaaaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoyaaaa" alt="hoyaaaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoyaaaa&column=-1&theme=gruvbox&no-frame=true" alt="hoyaaaa" /></a> </p>
 
 - 🔭 I’m currently working on **Bixby ASR**
 
