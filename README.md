@@ -11,7 +11,7 @@
 ---
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
-<img align="right" height="150" width="210" src="IMAGE_0871.JPEG">
+<img align="right" height="150" width="210" src="IMG_0871.jpeg">
 
 - 🔭 **I’m currently working on:** ML models
 - 🌱 **I’m currently learning:** data engineering
