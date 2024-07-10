@@ -9,12 +9,12 @@
 
 ---
 
-<img align="right" height="150" width="210" src="docs/IMG_0871.jpeg" style="max-width: 100%; height: auto;">
+<img align="right" height="125" width="180" src="docs/IMG_0871.jpeg">
 
 - 🔭 **I’m currently working on:** Front developer (React, RN, Flutter)
 - 🌱 **I’m currently learning:** Front developing
 - 👯 **I’m looking to collaborate on:** open sources
-- ⚡ **Hobbies:** internet, music, series, pet my dog
+- ⚡ **Hobbies:** movie, internet, music, series, pet my dog
 - 😄 **Pronouns:** he/him
 
 ---
