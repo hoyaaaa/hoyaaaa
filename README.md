@@ -5,13 +5,12 @@
    <a href="https://www.linkedin.com/in/hoyaaaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/-hoyaaaa-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoyaaaa/"></a> 
    <a href="mailto:hoya.develop@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-hoya.develop@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoya.develop@gmail.com"></a>
 </p>
-<em>Please, Be Kind. Especially When We Don't Know What's Going On.</em>
+
 <img align="right" height="125" width="180" src="docs/IMG_0886.jpeg">
 
 <br />
-<br />
-<br />
-<br />
+<em>Please, Be Kind.<br />Especially When We Don't Know What's Going On.</em>
+
 <br />
 
 ---
