@@ -6,22 +6,20 @@
    <a href="mailto:hoya.develop@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-hoya.develop@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoya.develop@gmail.com"></a>
 </p>
 
-<img align="right" height="125" width="180" src="docs/IMG_0886.jpeg">
-
-<br />
-<em>Please, Be Kind.<br />Especially When We Don't Know What's Going On.</em>
-
-<br />
-<br />
-<br />
-
----
-
 - 🔭 **I’m currently working on:** Front developer (React, RN, Flutter)
 - 🌱 **I’m currently learning:** Front developing
 - 👯 **I’m looking to collaborate on:** open sources
 - ⚡ **Hobbies:** movie, internet, music, series, pet my dog
 - 😄 **Pronouns:** he/him
+
+<img align="right" height="120" width="180" src="docs/IMG_0886.jpeg">
+<p align="right">
+   <br />
+   <br />
+   <em><b>Please, Be Kind.<br />Especially When We Don't Know What's Going On.</b></em>
+   <br />
+   <em>Everything Everywhere All at Once</em>
+</p>
 
 ---
 
