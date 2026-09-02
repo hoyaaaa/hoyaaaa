@@ -1,30 +1,41 @@
+# Changho Park
 
-<h1 align="left"> Hey there, I'm Changho Park (@hoyaaaa) 👋 </h1>
+**Backend engineer building reliable production systems in Go.**
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/hoyaaaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/-hoyaaaa-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoyaaaa/"></a> 
-   <a href="mailto:hoya.develop@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-hoya.develop@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoya.develop@gmail.com"></a>
-</p>
+I work on the parts of a system where correctness matters most: authentication,
+authorization, API contracts, data boundaries, and safe production changes.
 
-- 🔭 **I’m currently working on:** Front developer (React, RN, Flutter)
-- 🌱 **I’m currently learning:** Front developing
-- 👯 **I’m looking to collaborate on:** open sources
-- ⚡ **Hobbies:** movie, internet, music, series, pet my dog
-- 😄 **Pronouns:** he/him
+My recent work includes designing role- and scope-based access control,
+integrating short-lived token flows, evolving database-backed services, and
+turning production bottlenecks into small, measurable fixes. I try to make
+failure modes explicit, keep contracts reviewable, and leave systems easier to
+operate than I found them.
 
-<img align="right" height="120" width="180" src="docs/IMG_0886.jpeg">
-<p align="right">
-   <br />
-   <br />
-   <em><b>Please, Be Kind.<br />Especially When We Don't Know What's Going On.</b></em>
-   <br />
-   <em>Everything Everywhere All at Once</em>
-</p>
+## What I focus on
 
----
+- **Access control** — authentication, authorization, roles, scopes, and audit trails
+- **API design** — HTTP APIs, OpenAPI contracts, idempotency, and compatibility
+- **Data systems** — PostgreSQL, Supabase integrations, schema evolution, and consistency
+- **Reliability** — observability, concurrency, performance, and fail-closed behavior
+- **Delivery** — focused tests, race detection, CI, staged rollouts, and practical rollback paths
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoyaaaa&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoyaaaa&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoyaaaa&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoyaaaa&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoyaaaa&theme=transparent&utcOffset=9)
+Most of my recent production work lives in private repositories. My public
+history also includes web and cross-platform applications; that background
+still helps me design backend contracts with the client on the other side in
+mind.
+
+## How I like to work
+
+I prefer explicit contracts over hidden assumptions, focused evidence over
+confident guesses, and the smallest change that fully solves the problem.
+
+Outside of code, I watch a lot of films. I like stories that stay with you,
+shift perspective, and remain kind to people even in the middle of chaos.
+
+> **Please, be kind. Especially when we don't know what's going on.**<br>
+> — *Everything Everywhere All at Once*
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/hoyaaaa/) ·
+[Email](mailto:hoya.develop@gmail.com)
